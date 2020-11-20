@@ -1,11 +1,11 @@
 # Site settings
-title: Code Movers
-SEOTitle: SmallAnt | Move Code Blog 
+title: Code Mover
+SEOTitle: SmallAnt | Handling Code Blog 
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
 keyword: "Code,Movers,Python"
-url: "http://xingmegshuo.github.io"          # your host, for absolute URL
+url: "https://xingmegshuo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xingmegshuo/xingmegshuo.github.io.git" # you code repository
 
