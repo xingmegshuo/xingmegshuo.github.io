@@ -1,10 +1,10 @@
 # Site settings
-title: Code Mover
-SEOTitle: SmallAnt | Handling Code Blog 
+title: Code Porter
+SEOTitle: SmallAnt | Code Porter
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "Code,Movers,Python"
+description: "I am just a code porter."
+keyword: "Code,"
 url: "https://xingmegshuo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xingmegshuo/xingmegshuo.github.io.git" # you code repository
@@ -64,8 +64,8 @@ gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
+  repo: xingmegshuo.github.io    #仓库名称
+  owner: xingmegshuo    #github用户名
   admin: qiubaiying
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
@@ -78,7 +78,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
