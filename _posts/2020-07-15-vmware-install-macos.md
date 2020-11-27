@@ -15,7 +15,7 @@ tags:
 
 ## 先上效果图
 
-![pic](img/mac1.png)
+![pic](../img/mac1.png)
 
 - first  安装vmware unlocker
 
