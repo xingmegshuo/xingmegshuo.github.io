@@ -4,7 +4,7 @@ title: vmware install macos
 subtitle: 虚拟机安装mac
 date: 2020-07-15
 author: samll_ant
-header-img: img/mac/mac.jpg
+header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - vmware
